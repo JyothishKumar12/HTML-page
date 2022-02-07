@@ -18,8 +18,54 @@ margin:0;
 }
 .right-side{
 float:right;
-color:red;
 margin-top: -100px;
+margin-right: 150px
+}
+.body{
+    
+    background-color:aquamarine;
+    width:1500px;
+    height:800px;
 }
 
+hsection{
+    
+        padding-left: 185px;
+    padding-top: 4px;
+    padding-bottom: 52px;
+} 
+.hsec-right{
+    float: right;
+    padding-right: 149px;
+}
+.inner-content{
+
+    padding-right: 21px;
+    padding-left: 21px;
+    box-shadow:20px;
+    border: 1px solid;
+  padding: 10px;
+}
+
+
+.inner-body{
+    
+    background-color: white;
+    margin-left: 150px;
+    margin-right: 150px;
+    height:700px;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-top: 14px;
+}
+
+.tables{
+    margin-top:68px;
+    width:1164px;
+    height:200px;
+    margin-left: 21px;
+    padding-left: 21px;
+    padding-right:280px;
+    text-align: center;
+}
 /*   */
