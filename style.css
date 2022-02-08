@@ -28,24 +28,26 @@ margin-right: 150px
     height:800px;
 }
 
-hsection{
+.hsection{
     
-        padding-left: 185px;
-    padding-top: 4px;
+    padding-left: 198px;
     padding-bottom: 52px;
-} 
+    padding-right: -1px;
+    padding-top: 21px;
+ } 
 .hsec-right{
     float: right;
     padding-right: 149px;
-}
+} 
 .inner-content{
 
     padding-right: 21px;
     padding-left: 21px;
     box-shadow:20px;
     border: 1px solid;
-  padding: 10px;
+  /* padding: 10px; */
 }
+
 
 
 .inner-body{
@@ -58,14 +60,14 @@ hsection{
     padding-right: 17px;
     padding-top: 14px;
 }
-
+.thead{
+    margin-right: 10px;
+}
 .tables{
-    margin-top:68px;
-    width:1164px;
-    height:200px;
-    margin-left: 21px;
-    padding-left: 21px;
-    padding-right:280px;
+    margin-top: 68px;
+    width: 1164px;
+    height: 200px;
+    padding-left: 14px;
     text-align: center;
 }
-/*   */
+    
